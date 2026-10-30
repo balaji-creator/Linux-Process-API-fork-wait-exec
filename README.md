@@ -49,7 +49,8 @@ int main() {
 
 ##OUTPUT
 
-![alt text](a.jpeg)
+<img width="797" height="222" alt="image" src="https://github.com/user-attachments/assets/a5917242-e86e-4f6d-bff6-8a31a32ccc41" />
+
 
 
 
@@ -104,7 +105,8 @@ int main() {
 
 ##OUTPUT
 
-![alt text](b.jpeg)
+<img width="792" height="306" alt="image" src="https://github.com/user-attachments/assets/efe62e15-2872-452b-ba59-ee23d30b14b1" />
+
 
 
 
